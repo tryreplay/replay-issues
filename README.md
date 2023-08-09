@@ -1,3 +1,3 @@
 # Replay Issues
 
-Submit issues and comments for [Replay](https://tryreplay.ai/) here.
+Submit issues and comments for [Replay](https://tryreplay.io/) here.
